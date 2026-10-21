@@ -1,15 +1,4 @@
 # Controle2_java
 
-pwd
-ls
-git init
-git branch -M main
-git remote add origin https://github.com/obouyrhajden7951-art/Controle2_java.git
-git pull origin main --allow-unrelated-histories
-git add .
-git commit -m "Ajout du controle 2 Java"
-git push -u origin main
-
-git add .
-git commit -m "Correction"
-git push
+<img width="1208" height="723" alt="image" src="https://github.com/user-attachments/assets/b45e79f4-202b-4538-9247-0c016a4d904e" />
+<img width="1348" height="427" alt="image" src="https://github.com/user-attachments/assets/24bb4f40-9b43-44bd-91a3-105c248aee4c" />
